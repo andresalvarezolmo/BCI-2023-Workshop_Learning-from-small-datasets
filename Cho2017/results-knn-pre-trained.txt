@@ -1,0 +1,2 @@
+accuracy        f1    recall  specificity  precision
+0  0.612147  0.608791  0.612147     0.612147   0.614894
